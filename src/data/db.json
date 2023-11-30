@@ -360,5 +360,12 @@
         "category":"home-decoration",
         "thumbnail":"https://i.dummyjson.com/data/products/30/thumbnail.jpg"
       }
+    ],
+    "users":[
+      {
+        "name": "Luis",
+        "email": "luis@gmail.com",
+        "password": "1234"
+      }
     ]
   }
